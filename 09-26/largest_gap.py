@@ -11,3 +11,5 @@ def largest_gap(l):
             result = temp
 
     print(result)
+
+largest_gap(A)
